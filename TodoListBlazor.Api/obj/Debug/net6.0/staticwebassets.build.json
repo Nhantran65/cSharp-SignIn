@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fgoy14tNBbpU76txbjuBAPaEfEC2aN8xftPD1Sgs1oc=",
+  "Source": "TodoListBlazor.Api",
+  "BasePath": "_content/TodoListBlazor.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
